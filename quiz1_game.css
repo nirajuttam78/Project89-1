@@ -1,0 +1,59 @@
+body {
+	background-image: url(BACKGROUND.jpg);
+	background-size: cover;
+	background-position: center;
+	padding-top: 200px;
+}
+
+.login_div1,
+.login_div2 {
+	background: white;
+	padding: 10px;
+	float: none;
+}
+
+
+#player1_name,
+#player2_name {
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#word {
+	width: 60%;
+}
+
+#word_display {
+	letter-spacing: 5px;
+}
+
+#output {
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+
+h1 {
+	font-weight: bold;
+	color:black;
+}
+
+h3 {
+	font-weight: bold;
+}
+
+h3 {
+	font-weight: bold;
+}
+
+#btn-login{
+	background-color:blueviolet;
+	color: white;
+	font-weight:bold;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	border-color: palevioletred;
+	border-radius: 5px;
+}
